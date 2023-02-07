@@ -1,0 +1,61 @@
+
+a{
+text-decoration: none;
+}
+   
+.router-link-active {
+text-decoration: none;
+}
+
+.protal-in-box{
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+.protal-title1{
+    font-size: 28px;
+    font-weight:bold;
+    margin: 10px;
+}
+
+.protal-title2{
+    display: block;
+    font-size: 15px;
+    text-align: left;
+    font-weight:bold;
+    color: #515671;
+    padding: 5px 10px;
+}
+
+.protal-title2:hover{
+    color: #1fbec2;
+    cursor: pointer;
+}
+
+.protal-text1{
+    font-size: 15px;
+    color: #515671;
+    font-family: '微软雅黑';
+}
+
+
+.protal-text2{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    padding: 0px 10px;
+    font-size: 14px;
+    color: #999;
+    font-family: '微软雅黑';
+    text-align: left;
+}
+
+.protal-date1{
+    padding: 10px;
+    display: block;
+    font-size: 14px;
+    color: #999;
+    font-family: '微软雅黑';
+    text-align: left;
+}
